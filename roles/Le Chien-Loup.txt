@@ -1,0 +1,3 @@
+Le camp du Chien-Loup est variable.
+Lorsque le Chien-Loup reçoit sa carte, il décide tout seul s'il se rangera du côté de la Meute, en devenant un Loup-Garou, ou s'il fera partie du Village, en devenant un Simple Villageois.
+Si le Chien-Loup choisit de devenir Simple Villageois, il peut quand même être infecté. 

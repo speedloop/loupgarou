@@ -1,0 +1,5 @@
+Plus déterminant que le plus perspicace des inspecteurs, mais aussi plus poilu...
+Le Montreur d'Ours gagne avec le Village, sauf s'il est infecté ou s'il tombe amoureux d'un Loup-Garou/Solitaire.
+Le Montreur d'Ours ne se réveille pas la nuit, cependant il a son rôle à jouer tous les matins : le Narrateur grongnera si au moins un des voisins directs du Montreur d'Ours appartient à la Meute. 
+Si l'un des voisins du Montreur d'Ours venait à mourir, alors il sera remplacé par son autre voisin.
+Si le Montreur d'Ours est infecté, il grognera chaque matin.

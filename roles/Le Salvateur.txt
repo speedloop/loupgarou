@@ -1,0 +1,5 @@
+Le Salvateur gagne avec le Village, sauf s'il est infecté ou amoureux d'un Loup-Garou/Solitaire.
+Le Salvateur se réveille chaque nuit, avant le réveil de la Meute, et désigne un joueur qu'il protègera, lui-même compris. Si le joueur désigné par le Salvateur venait à être également désigné par les Loups-Garous pour le goûter, il survivra à leur assaut. 
+Le Salvateur ne peut pas désigner deux nuits de suite le même joueur.
+Sa protection n'est effective qu'avec les morsures des Loups-Garous, mais ne marchera pas contre une potion de mort ou un Assasin par exemple.
+Le pouvoir du Salvateur ne change pas s'il est infecté. 

@@ -1,0 +1,4 @@
+La Sorcière gagne avec le Village, sauf si elle est infectée, ou si elle tombe amoureuse d'un Loup-Garou/Solitaire.
+La Soricère dispose de deux potions : une potion de vie, et une potion de mort. Elle se réveille toutes les nuits. Le Narrateur lui désigne alors la victime des Loups-Garous. La Sorcière peut alors la sauver (geste positif), ne rien faire (geste neutre), ou tuer quelqu'un d'autre (geste négatif). La Sorcière peut utiliser ses potions sur elle-même.
+Elle peut utiliser plusieurs de ses potions dans la même nuit, mais elles restent toutes à usage unique.
+La Sorcière peut également recevoir une potion de vie ou de mort supllémentaire lorsque le Livreur l'aura trouvée.

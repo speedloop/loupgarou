@@ -1,0 +1,5 @@
+Le Berger gagne avec le Village, sauf s'il est infecté ou amoureux d'un Loup-Garou/Solitaire.
+Le Berger se réveille toutes les nuits, et peut déposer jusqu'à deux moutons chez n'importe quel joueur, dont lui-même. Il n'est pas obligé de placer tous ses moutons, et peut ne pas en placer.
+Si la Meute venait à attaquer un joueur protégé par un mouton, ils dévoreront le mouton à sa place. 
+Si le Berger place, volontairement ou pas, un mouton devant un Loup-Garou, celui-ci sera dévoré, en plus de la victime de la Meute.
+Le pouvoir du Berger ne change pas s'il est infecté.

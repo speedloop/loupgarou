@@ -1,0 +1,4 @@
+Le Bouc Émissaire gagne avec le Village, sauf s'il est infecté ou s'il tombe amoureux d'un Loup-Garou/Solitaire.
+En cas d'égalité lors du vote du Village, le Bouc Émissaire est immédiatement désigné pour périr sur le bûcher. Cependant, avant de mourir, il peut (mais n'est pas obligé) désigner qui votera et qui ne votera pas au prochain vote du Village. 
+Si toutes les personnes désignées mouraient d'une façon ou d'une autre avant le vote du Village suivant la mort du Bouc Émissaire, personne ne sera éliminé par le Village ce tour-ci. 
+Le "pouvoir" du Bouc Émissaire ne change pas s'il est infecté.

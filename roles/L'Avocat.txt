@@ -1,0 +1,6 @@
+L'Avocat gagne la partie avec au moins un camp (Village ou Meute), ou avec un Solitaire.
+L'Avocat se réveille la première nuit, et désigne deux joueurs, lui-même exclu, qui deviendront ses clients. Les joueurs désignés ne sont en aucun cas  informés de leur rôle pour l'Avocat.
+L'Avocat n'a pas à connaître ni le rôle ni le camp de ses clients.
+L'Avocat ne gagne la partie que si l'un de ses deux clients remporte la partie vivant (si un de ses clients gagne la partie mais qu'il a été tué, l'Avocat ne gagne pas). Ainsi, si ses deux clients venaient à mourir avant l'Avocat, celui-ci sera aussitôt éliminé.
+Cependant, la mort de l'Avocat n'a aucune incidence sur la partie de ses clients. 
+L'Avocat ne peut pas être désigne par Cupidon, et ne peut donc pas tomber amoureux.

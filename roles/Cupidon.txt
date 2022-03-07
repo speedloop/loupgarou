@@ -1,0 +1,4 @@
+Cupidon gagne avec le Village, sauf s'il est infecté ou s'il tombe amoureux d'un Loup-Garou/Solitaire.
+Cupidon se réveille seulement la première nuit. Il désigne alors deux joueurs, qui se réveilleront après lui, se reconnaitront, et tomberont amoureux jusqu'à la fin de la partie. Si par malheur l'un des deux amoureux venait à mourir, l'autre le rejoindra dans la tombe par chagrin. 
+Cupidon peut également se désigner lui-même en temps qu'amoureux. 
+Le but des amoureux ne change pas s'ils sont du même camp (Village ou Meute). Par contre, s'ils tombent amoureux d'un joueur originellement adverse (Villageois/Loup-Garou ; Villageois/Solitaire ; Loup-Garou/Solitaire ; Solitaire/Solitaire), leur but sera de finir la partie en étant les deux SEULS survivants...

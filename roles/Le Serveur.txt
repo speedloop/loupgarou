@@ -1,0 +1,3 @@
+Quoi de mieux qu'un barman pour alcooliser les folles nuits du Village...
+Le Serveur gagne avec le Village, sauf s'il est infecté, ou s'il tombe amoureux d'un Loup-Garou/Solitaire. 
+Chaque nuit, le Serveur se réveille, et distribue un cocktail empoisonné au joueur de son choix. Celui qui aura reçu le verre ne pourra pas participer au vote du Village le lendemain. Le Serveur ne peut pas distribuer sa boisson au même joueur deux nuit à la suite. 

@@ -1,0 +1,4 @@
+Le Corbeau gagne avec le Village, sauf s'il est infecté ou amoureux d'un Loup-Garou/Solitaire.
+Le Corbeau se réveille chaque nuit pour désigner un joueur qui aura, quoi qu'il arrive, deux voix contre lui lors du prochain vote du Village. 
+Le Corbeau peut très bien, contrairement au Salvateur ou au Livreur, désigner deux fois de suite la même personne. 
+Le pouvoir du Corbeau ne change pas s'il est infecté, mais ses intentions si...

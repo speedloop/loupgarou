@@ -1,0 +1,4 @@
+L'Enfant Sauvage n'a pas de camp fixe, mais ne peut gagner seul.
+L'Enfant Sauvage se réveille la première nuit. Il choisit alors un joueur qui deviendra son modèle, et bascule dans le camp des Villageois. 
+Si par malheur, le modèle de l'Enfant Sauvage venait à périr avant lui, celui-ci ne saura plus comment se comporter au Village, et rejoindra la Meute des Loups-Garous. 
+Si le modèle de l'Enfant Sauvage meurt alors que celui-ci est infecté, et fait donc déjà partie de la Meute, il reste Loup-Garou. 

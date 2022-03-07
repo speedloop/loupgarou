@@ -1,0 +1,2 @@
+Le camp du Voleur est variable.
+Lors de la première nuit, le Voleur se réveille et choisi entre trois rôles non-distribués celui qu'il aura pour le restant de la partie. S'il ne désire prendre aucun des rôles proposés, il est alors un Simple Villageois.

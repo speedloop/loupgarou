@@ -1,0 +1,4 @@
+La Voyante gagne avec le Village, sauf si elle est infectée, ou si elle tombe amoureuse d'un Loup-Garou/Solitaire.
+La Voyante se réveille toutes les nuits, et désigne un joueur dont elle souhaite connaître le rôle. Le Narrateur lui montre alors le rôle correspondant au joueur désigné. 
+Le rôle de la Voyante ne change pas si elle est infectée.
+La Voyante ne peut pas sonder le Gentleman, elle verra à la place de son rôle un Simple Villageois.
